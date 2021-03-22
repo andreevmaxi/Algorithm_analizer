@@ -1,1 +1,1 @@
-# Algorithm_analizer
+# Algorithm_analyzer
